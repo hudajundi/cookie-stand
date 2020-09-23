@@ -1,0 +1,11 @@
+h1 {
+    font-size: xx-large;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: darkgray;
+    border: solid;
+}
+
+body{
+    background-color: lightgray;
+}
