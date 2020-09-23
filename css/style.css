@@ -14,3 +14,35 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 body{
     background-color: lightgray;
 }
+
+li{
+   
+    text-align: center;
+    word-spacing: 20px;
+padding: 30px;
+border-width: 2px;
+border: solid;
+border-color: lightyellow;
+font-family: cursive;
+font-size: 25px;
+
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    border-width: 20px;
+    border-color: linen;
+}
+footer{
+    background-color: mediumpurple;
+    text-align: center;
+    font-weight: lighter;
+    font-style: inherit;
+}
+a{
+    font-size: x-large;
+    color: maroon;
+    font-weight: bolder;
+    
+}
