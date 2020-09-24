@@ -4,11 +4,18 @@ h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     border: darkgray;
     border: solid;
-}
+   margin-bottom: 50px;
+        margin-top: 60px;
+        color: rgb(211, 140, 7);
+       
+    }
+
+
 
 h2{
 font-size: large;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: olive;
 }
 
 body{
@@ -25,7 +32,7 @@ border: solid;
 border-color: lightyellow;
 font-family: cursive;
 font-size: 25px;
-
+color: saddlebrown;
 }
 
 img{
@@ -46,3 +53,4 @@ a{
     font-weight: bolder;
     
 }
+
