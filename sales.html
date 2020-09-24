@@ -8,6 +8,23 @@
 </head>
 <body>
     <h1>Salmon Cookie Sales</h1>
+
+    <form id="addCity">
+        <fieldset>
+            <legend>New Store</legend>
+            <label>City: </label>
+            <input type="text" name="city" required>
+            <label>Min Number Of Customres</label>
+            <input type="number" name="minC" required>
+            <label>Max Number Of Customres</label>
+            <input type="number" name="maxC" required>
+            <label>Average Sales</label>
+            <input type="number" step="0.01" name="avgS" required>
+        </fieldset>
+        <button type="submit">Add Store</button>
+    </form>
+
+
     
 <div id="cookie"></div>
 
